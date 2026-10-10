@@ -1,0 +1,21 @@
+{
+  "project": "Pocket Garden",
+  "date": "2026-10-10",
+  "generator": "Built-in image_gen",
+  "status": "Exploratory product mockups with synthetic data; not implemented features or measured state.",
+  "images": [
+    {
+      "file": "cover.png",
+      "prompt": "Create a polished landscape project cover image, a concrete product-preview mockup showing what people will build, NOT symbolic concept art. Front-on crisp readable interface fills most of the image with a narrow soft neutral margin, no laptop, no perspective, no floating objects. Cohesive light UI, warm off-white background, strong visual hierarchy, restrained accent color. Main product content large enough to understand at thumbnail size, minimal text. Include small subtle label 'PROJECT PREVIEW'. No Karma42 dashboard, no agent metrics, no claims of a finished product. Pocket Garden: an actual playable cozy 2D browser gardening game screen. Title 'Pocket Garden'. Large central game board of nine soil plots in a neat 3 by 3 arrangement, visibly different stages of carrots, tomatoes and sunflowers, three empty plots ready for planting. A selected tomato plot has a simple 'Water' action. Bottom seed toolbar with three recognizable seed types and water-can tool. Small top-right harvest basket with two tomatoes. Friendly charming pixel-inspired illustrated game assets, clear game controls, green accents. The game board is the focus, not mascot characters or abstract garden scenery.",
+      "reusedFrom": "design/project-covers/descriptive-v1/pocket-garden.png"
+    },
+    {
+      "file": "concept-play.png",
+      "prompt": "Use case: ui-mockup. Create a high-quality landscape raster image, 1536x1024 composition. This is an exploratory product design image for a friends coding/research project. Depict the intended product concretely, not abstract symbolic artwork. Minimal readable text, no laptop or phone hardware, no floating screens, no watermarks or external brand logos. Include a small discreet label 'DESIGN CONCEPT'. All shown state is synthetic. Product gameplay concept for 'Pocket Garden', visually distinct cozy pixel-art 2D game. Large overhead garden with nine square soil plots, carrot, tomato and sunflower stages. A selected dry tomato plot has highlighted soil; the cursor watering-can pours a small stream, after watering a bright green sprout effect appears. Bottom simple controls 'Plant', 'Water', 'Harvest' and recognizable three seed icons. Harvest basket top right with tomatoes. Warm cream framing, green leaves and pixel textures, bold legible game assets. Title 'Pocket Garden'. Focus on clear playable action, no marketing slogans, no extraneous characters or narrative."
+    },
+    {
+      "file": "concept-seeds.png",
+      "prompt": "Use case: ui-mockup. Create a high-quality landscape raster image, 1536x1024 composition. This is an exploratory product design image for a friends coding/research project. Depict the intended product concretely, not abstract symbolic artwork. Minimal readable text, no laptop or phone hardware, no floating screens, no watermarks or external brand logos. Include a small discreet label 'DESIGN CONCEPT'. All shown state is synthetic. Product seed-selection concept for the cozy pixel-art game 'Pocket Garden'. A warm garden scene is dimmed behind an attractive chunky illustrated dialog titled 'Choose a seed'. Three generous vertical illustrated seed cards 'Carrot', 'Tomato', 'Sunflower' show their seed packet, sprout and mature plant in a compact growth strip. Tomato selected with green border. Footer button 'Plant tomato' and 'Back to garden'. Game-like rounded wood and paper textures, pixel illustrations, warm ochre and leafy green, readable labels, no realistic photographs or generic SaaS dashboard. Make the grow/harvest loop understandable visually."
+    }
+  ]
+}
